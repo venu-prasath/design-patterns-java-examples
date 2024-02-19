@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Factory Pattern!");
         System.out.println("Read more here `https://refactoring.guru/design-patterns/factory-method`");
-        String os = "linux";
+        String os = "windows";
         if(os.equals("linux")) {
             Dialog dialog = new LinuxDialog();
             dialog.createButton();
