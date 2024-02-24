@@ -1,4 +1,4 @@
-package xyz.venuprasath;
+package xyz.venuprasath.factory;
 
 import xyz.venuprasath.factory.Dialog;
 import xyz.venuprasath.factory.impl.LinuxDialog;
