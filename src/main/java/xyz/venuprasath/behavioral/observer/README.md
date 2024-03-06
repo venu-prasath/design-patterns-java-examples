@@ -20,6 +20,6 @@ The Observer Design Pattern is widely used in various programming scenarios wher
 
 The Observer pattern provides a flexible and scalable solution to dynamically manage subscribers and notifications, making it suitable for systems where the state of one object affects the state of one or more other objects.
 
-Resources
+### Resources
 1. [Design Patterns](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 2. [refactoring.guru](https://refactoring.guru/design-patterns/observer)
